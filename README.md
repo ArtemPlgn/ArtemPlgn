@@ -6,7 +6,7 @@ ________________________________________________________________________________
 
 
 Ноутбуки `.ipynb`:
-  01. [Репозиторий - Проекты Data Analyst](https://github.com/ArtemPlgn/Data_analyst_project)
+  01. [Репозиторий - Проекты Data Analyst](https://nbviewer.org/github/ArtemPlgn/Data_analyst_project/blob/main/games_sales/analysis_game_sales.ipynb)
 
 __________________________________________________________________________________________________________________________
 
