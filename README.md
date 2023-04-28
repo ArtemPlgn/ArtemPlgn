@@ -37,15 +37,21 @@ ________________________________________________________________________________
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemPlgn&show_icons=true&layout=compact&theme=tokyonight'/>
 </p>
 
-
+<p align="center">
 **Leetcode:**
+</p>
 
+<p align="center">
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Artem_fwud&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+</p>
 
+<p align="center">
 **Codewars:** 
+</p>
 
+<p align="center">
 [![codewars](https://www.codewars.com/users/Artem_fwud/badges/large)](https://www.codewars.com/users/Artem_fwud)
-
+</p>
 __________________________________________________________________________________________________________________________
 
 
