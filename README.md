@@ -2,7 +2,7 @@
 [![codewars](https://www.codewars.com/users/Artem_fwud/badges/large)](https://www.codewars.com/users/Artem_fwud)   
 
 Leetcode:  
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=https://leetcode.com/Artem_fwud/&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Artem_fwud&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 <p align="center"> <a href="https://github.com/ArtemPlgn/certificates">Сертификаты о прохождении курсов</a></p>
 
