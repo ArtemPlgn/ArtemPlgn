@@ -1,12 +1,6 @@
 | **Leetcode** | **Codewars** |
-| -------------------- | :--------------------- |
-| [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Artem_fwud&theme=dark)](https://github.com/KnlnKS/leetcode-stats)|
-[![codewars](https://www.codewars.com/users/Artem_fwud/badges/large)](https://www.codewars.com/users/Artem_fwud)|
-
-
-| **Проект** | **Тип исследования** | **Статус** |
-| -------------------- | :--------------------- |:---------------------------| 
-| [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Artem_fwud&theme=dark)](https://github.com/KnlnKS/leetcode-stats)|[![codewars](https://www.codewars.com/users/Artem_fwud/badges/large)](https://www.codewars.com/users/Artem_fwud)|Завершен|
+| -------------------- | :--------------------- |:
+| [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Artem_fwud&theme=dark)](https://github.com/KnlnKS/leetcode-stats)|[![codewars](https://www.codewars.com/users/Artem_fwud/badges/large)](https://www.codewars.com/users/Artem_fwud)|
 
 <p align="center"> <a href="https://github.com/ArtemPlgn/certificates">Сертификаты о прохождении курсов</a></p>
 
