@@ -1,10 +1,4 @@
 
-**Leetcode:**
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Artem_fwud&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
-
-**Codewars:** 
-[![codewars](https://www.codewars.com/users/Artem_fwud/badges/large)](https://www.codewars.com/users/Artem_fwud)
-
 <p align="center"> <a href="https://github.com/ArtemPlgn/certificates">Сертификаты о прохождении курсов</a></p>
 __________________________________________________________________________________________________________________________
 
@@ -42,6 +36,14 @@ ________________________________________________________________________________
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemPlgn&show_icons=true&layout=compact&theme=tokyonight'/>
 </p>
 
+
+**Leetcode:**
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Artem_fwud&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+
+**Codewars:** 
+
+[![codewars](https://www.codewars.com/users/Artem_fwud/badges/large)](https://www.codewars.com/users/Artem_fwud)
 
 __________________________________________________________________________________________________________________________
 
