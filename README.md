@@ -13,6 +13,9 @@ ________________________________________________________________________________
 Привет
 
 Для удобства просмотра ноутбуков, ссылки ведут сразу на сервис - [External Viewe](https://nbviewer.org/github/ArtemPlgn/). Если есть необходимость в исходных файлах - переходи на соответствующий репозиторий
+
+Leetcode:  
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=https://leetcode.com/Artem_fwud/&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 __________________________________________________________________________________________________________________________
 
 
