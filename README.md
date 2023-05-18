@@ -64,6 +64,7 @@ ________________________________________________________________________________
 | [01. Исследование продаж по видео играм](https://nbviewer.org/github/ArtemPlgn/Data_analyst_project/blob/main/games_sales/analysis_game_sales.ipynb?flush_cache=true)|Понять как росло количество издаваемых игр в разрезе по годам, провести некоторые статистические вычисления.|Завершен|
 | [02. Анализ топа фильмов](https://nbviewer.org/github/ArtemPlgn/Data_analyst_projects/blob/main/top_movies/analysis_top_imdb.ipynb)|Изучить топ фильмов. Исследовать и проанализировать фильмы по жанрам, режиссерам. Вяснить как возрастной рейтинг влияет на кассовые сборы.|Завершен|
 | [03. Веб-скрейпинг из Википедии и анализ данных (на примере президентов США)](https://nbviewer.org/github/ArtemPlgn/Data_analyst_projects/blob/main/american_pres/analysis_amer_pres.ipynb)|Получить данные из веб-страницы, подготовить данные к анализу и проанализировать их с SQLite3.|Завершен|
+| [04. Анализ Airbnb по Сиэтлу в Tableau.](https://github.com/ArtemPlgn/Data_analyst_projects/tree/main/Airbnb_Tableau)|Проанализировать данные в Tableau. Сделать показательный дашборд|Завершен|
 
 __________________________________________________________________________________________________________________________
 
